@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 50rem;
+    background-color: #faf9f7;
+}
