@@ -1,5 +1,7 @@
 h1 {
     text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 body {
@@ -30,4 +32,10 @@ body {
     width: 18rem;
     height: auto;
     border-radius: 100%;
+}
+
+.tagline {
+    text-align: center;
+    margin-top: 0;
+    font-style: italic;
 }
