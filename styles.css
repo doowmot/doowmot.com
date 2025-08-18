@@ -10,3 +10,12 @@ body {
     max-width: 50rem;
     background-color: #faf9f7;
 }
+
+.post-heading {
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+.post-heading + p {
+    margin-top: 0px;
+}
